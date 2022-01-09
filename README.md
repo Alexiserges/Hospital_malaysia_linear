@@ -1,0 +1,2 @@
+# Hospital_malaysia_linear
+Hospital_malaysia_linear_Regression with algorythm
